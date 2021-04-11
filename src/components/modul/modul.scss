@@ -1,0 +1,30 @@
+.popup-container{
+  width: 50vw;
+  form {
+    margin: 12% auto;
+    input {
+      width: 85%;
+      height: 40px;
+      padding-left: 10px;
+      border: 1px solid #D3D2D2;
+      display: block;
+      margin: 20px auto;
+    }
+    button {
+      background-color: #FFCD21;
+      padding: 10px;
+      width: 85%;
+      display: block;
+      margin: 0 auto;
+      border: none;
+      &:hover {
+        cursor: pointer;
+        background-color: #D3D2D2;
+        transition: 0.5s;
+      }
+    }
+  }
+}
+svg {
+  cursor: pointer;
+}
