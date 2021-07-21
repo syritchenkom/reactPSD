@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactPSD/static/css/main.3476da2f.chunk.css",
+    "main.js": "/reactPSD/static/js/main.ad735a9b.chunk.js",
+    "main.js.map": "/reactPSD/static/js/main.ad735a9b.chunk.js.map",
+    "runtime-main.js": "/reactPSD/static/js/runtime-main.2664b86d.js",
+    "runtime-main.js.map": "/reactPSD/static/js/runtime-main.2664b86d.js.map",
+    "static/css/2.c03e2b60.chunk.css": "/reactPSD/static/css/2.c03e2b60.chunk.css",
+    "static/js/2.a6ef9438.chunk.js": "/reactPSD/static/js/2.a6ef9438.chunk.js",
+    "static/js/2.a6ef9438.chunk.js.map": "/reactPSD/static/js/2.a6ef9438.chunk.js.map",
+    "index.html": "/reactPSD/index.html",
+    "static/css/2.c03e2b60.chunk.css.map": "/reactPSD/static/css/2.c03e2b60.chunk.css.map",
+    "static/css/main.3476da2f.chunk.css.map": "/reactPSD/static/css/main.3476da2f.chunk.css.map",
+    "static/js/2.a6ef9438.chunk.js.LICENSE.txt": "/reactPSD/static/js/2.a6ef9438.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/reactPSD/static/media/slider-fon.b13eb9bc.jpg",
+    "static/media/App.scss": "/reactPSD/static/media/img-8.12705aed.jpg",
+    "static/media/news_1.08eac62a.jpg": "/reactPSD/static/media/news_1.08eac62a.jpg",
+    "static/media/news_2.0d8aba05.jpg": "/reactPSD/static/media/news_2.0d8aba05.jpg",
+    "static/media/slick-theme.css": "/reactPSD/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2664b86d.js",
+    "static/css/2.c03e2b60.chunk.css",
+    "static/js/2.a6ef9438.chunk.js",
+    "static/css/main.3476da2f.chunk.css",
+    "static/js/main.ad735a9b.chunk.js"
+  ]
+}
